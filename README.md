@@ -7,3 +7,5 @@
 n个数中，n-1个重复偶数次，1个出现奇数次，怎么找出出现奇数次的那个数
 ##getSingleNumber.js
 Given an array of integers, every element appears twice except for one. Find that single one.
+##countingBits.js
+Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
