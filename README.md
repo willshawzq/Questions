@@ -11,3 +11,5 @@ Given an array of integers, every element appears twice except for one. Find tha
 Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
 ###maxSubArray.js
 https://leetcode.com/problems/maximum-subarray/
+###twoSum.js
+https://leetcode.com/problems/two-sum/
