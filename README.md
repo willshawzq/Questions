@@ -15,3 +15,5 @@ https://leetcode.com/problems/maximum-subarray/
 https://leetcode.com/problems/two-sum/
 ###addTwoNumbers.js
 https://leetcode.com/problems/add-two-numbers/
+###createDesktop.js
+用JS创建桌面快捷方式
